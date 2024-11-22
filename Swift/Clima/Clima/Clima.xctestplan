@@ -1,0 +1,33 @@
+{
+  "configurations" : [
+    {
+      "id" : "585AF978-6D4B-44DE-83C9-53D17C05B5FC",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "environmentVariableEntries" : [
+      {
+        "key" : "CG_NUMERICS_SHOW_BACKTRACE",
+        "value" : "YES"
+      }
+    ],
+    "locationScenario" : {
+      "identifier" : "Rio de Janeiro, Brazil",
+      "referenceType" : "built-in"
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Clima.xcodeproj",
+      "identifier" : "ADAA27AC231BBFAF00365194",
+      "name" : "Clima"
+    }
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}
